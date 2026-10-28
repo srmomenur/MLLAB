@@ -1,0 +1,21 @@
+feature,assigned_domain,mapping_basis,rationale
+anxiety_level,Psychological,Semantic interpretation of feature names,Measures anxiety and is assigned to the psychological domain.
+self_esteem,Psychological,Semantic interpretation of feature names,Represents self-evaluation and is assigned to the psychological domain.
+mental_health_history,Psychological,Semantic interpretation of feature names,Represents previous mental health history.
+depression,Psychological,Semantic interpretation of feature names,Represents depressive symptoms or depression-related status.
+headache,Physiological,Semantic interpretation of feature names,Represents a physical symptom.
+blood_pressure,Physiological,Semantic interpretation of feature names,Represents a physiological indicator.
+sleep_quality,Physiological,Semantic interpretation of feature names,Represents sleep quality; it may also relate to mental health.
+breathing_problem,Physiological,Semantic interpretation of feature names,Represents a physical symptom.
+social_support,Social,Semantic interpretation of feature names,Represents perceived or available social support.
+peer_pressure,Social,Semantic interpretation of feature names,Represents social pressure from peers.
+extracurricular_activities,Social,Semantic interpretation of feature names,Represents extracurricular participation and may overlap with academic engagement.
+bullying,Social,Semantic interpretation of feature names,Represents bullying or harassment as a social experience.
+noise_level,Environmental,Semantic interpretation of feature names,Represents noise in the surrounding environment.
+living_conditions,Environmental,Semantic interpretation of feature names,Represents housing or living conditions.
+safety,Environmental,Semantic interpretation of feature names,Represents safety conditions or perceived safety.
+basic_needs,Environmental,Semantic interpretation of feature names,Represents fulfillment of basic needs and may overlap with socioeconomic factors.
+academic_performance,Academic,Semantic interpretation of feature names,Represents academic performance.
+study_load,Academic,Semantic interpretation of feature names,Represents the amount or pressure of academic work.
+teacher_student_relationship,Academic,Semantic interpretation of feature names,Represents teacher-student relations and may overlap with the social domain.
+future_career_concerns,Academic,Semantic interpretation of feature names,Represents future career concerns and may overlap with psychological factors.

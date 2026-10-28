@@ -1,0 +1,7 @@
+feature,change,mean_prob_before,mean_prob_after,mean_change
+sleep_quality,+1,0.3292,0.3236,-0.0056
+social_support,+1,0.3292,0.3324,0.0031
+study_load,-1,0.3292,0.3255,-0.0037
+noise_level,-1,0.3292,0.3232,-0.0061
+peer_pressure,-1,0.3292,0.3229,-0.0064
+bullying,-1,0.3292,0.3232,-0.006

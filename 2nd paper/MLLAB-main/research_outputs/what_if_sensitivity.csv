@@ -1,0 +1,14 @@
+scenario,changed_feature,feature_value,predicted_class,maximum_class_probability
+Baseline median profile,None,,1,0.7944997986944559
+Lower quartile,anxiety_level,6.0,1,0.7627235779028544
+Upper quartile,anxiety_level,17.0,1,0.828308682175956
+Lower quartile,self_esteem,11.0,1,0.7536082649185889
+Upper quartile,self_esteem,26.0,1,0.8155097697201769
+Lower quartile,sleep_quality,1.0,1,0.7905550300892445
+Upper quartile,sleep_quality,4.0,1,0.7938621003989988
+Lower quartile,social_support,1.0,1,0.9685289067032808
+Upper quartile,social_support,3.0,0,0.607779870309455
+Lower quartile,peer_pressure,2.0,1,0.7944997986944559
+Upper quartile,peer_pressure,4.0,1,0.7786514564157087
+Lower quartile,study_load,2.0,1,0.7944997986944559
+Upper quartile,study_load,3.0,1,0.8499393971079017

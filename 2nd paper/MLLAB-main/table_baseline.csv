@@ -1,0 +1,4 @@
+model,f1_weighted,f1_weighted_sd,f1_macro,f1_macro_sd,balanced_acc,balanced_acc_sd,mcc,mcc_sd
+LogReg,0.8799,0.0244,0.88,0.0245,0.8798,0.0242,0.8211,0.0362
+RandomForest,0.8699,0.0305,0.8699,0.0305,0.87,0.0303,0.8066,0.0456
+GradBoost,0.8791,0.0273,0.879,0.0273,0.8791,0.0271,0.8198,0.0404
